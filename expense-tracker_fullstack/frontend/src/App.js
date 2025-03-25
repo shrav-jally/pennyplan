@@ -14,7 +14,7 @@ function App() {
 
   const global = useGlobalContext()
   console.log(global);
-
+//dadada
   const displayData = () => {
     switch(active){
       case 1:
